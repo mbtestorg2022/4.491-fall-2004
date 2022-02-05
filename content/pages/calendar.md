@@ -4,17 +4,187 @@ title: Calendar
 uid: f9cf73b0-0d97-873e-1041-dc15da077cc6
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: John and Axel Presented an Introduction to the Class | Assignment 0: Experiment with SodaPlay assigned |
-| 2 | Particle Spring Systems I  {{< br >}}  {{< br >}}Barb Presented an Overview of Recent Computer Graphics Research  {{< br >}}  {{< br >}}Class Discussion of SodaPlay Models from Assignment 0 | Assignment 1: Programming in Processing assigned |
-| 3 | Particle Spring Systems II  {{< br >}}  {{< br >}}Particle System Plugin Documentation and Particle System Introduction | Classroom work on Processing with Simon |
-| 4 | More on Processing from Simon  {{< br >}}  {{< br >}}Class Discussion of Processing Applets from Assignment 1 | Creation of research groups  {{< br >}}  {{< br >}}Assignment 1b: Initial Group Brainstorming assigned |
-| 5 | Class Presentations from Group Brainstorming | Propose research topics  {{< br >}}  {{< br >}}Assignment 2: Model Research and Construction assigned |
-| 6 | Vector Fields  {{< br >}}  {{< br >}}Working Session | &nbsp; |
-| 7 | Class Discussion of Assignment 2  {{< br >}}  {{< br >}}Simon's Documentation for Loading Triangle Meshes into Processing  {{< br >}}  {{< br >}}Working Session | &nbsp; |
-| 8 | Mid-term Presentations  {{< br >}}  {{< br >}}Formed Final Groups | &nbsp; |
-| 9 | Simon Talked about Explicit vs. Implicit Integration  {{< br >}}  {{< br >}}New Processing Particle Systems with Implicit Solver | &nbsp; |
-| 10 | Working Session | &nbsp; |
-| 11 | Working Session (cont.) | &nbsp; |
-| 12 | Final Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: John and Axel Presented an Introduction to the Class
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 0: Experiment with SodaPlay assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Particle Spring Systems I  
+  
+Barb Presented an Overview of Recent Computer Graphics Research  
+  
+Class Discussion of SodaPlay Models from Assignment 0
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1: Programming in Processing assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Particle Spring Systems II  
+  
+Particle System Plugin Documentation and Particle System Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Classroom work on Processing with Simon
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+More on Processing from Simon  
+  
+Class Discussion of Processing Applets from Assignment 1
+{{< tdclose >}}
+{{< tdopen >}}
+Creation of research groups  
+  
+Assignment 1b: Initial Group Brainstorming assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Class Presentations from Group Brainstorming
+{{< tdclose >}}
+{{< tdopen >}}
+Propose research topics  
+  
+Assignment 2: Model Research and Construction assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Vector Fields  
+  
+Working Session
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Class Discussion of Assignment 2  
+  
+Simon's Documentation for Loading Triangle Meshes into Processing  
+  
+Working Session
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term Presentations  
+  
+Formed Final Groups
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Simon Talked about Explicit vs. Implicit Integration  
+  
+New Processing Particle Systems with Implicit Solver
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Working Session
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Working Session (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
